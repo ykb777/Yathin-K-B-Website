@@ -1,0 +1,38 @@
+.logoImage{
+    float: left;
+}
+.shortForm{
+    float: left;
+    font-size: 45px;
+    font-family: Bebas Neue Regular;
+    font-weight: bold;
+}
+.YathinImg{
+    border: #df5050;
+    border-radius: 100px;
+    border-style: solid;
+    box-shadow: white;
+}
+.headerColor{
+    background-color: #161718;
+    background-blend-mode: hard-light;
+}
+.namYathin{
+    color:#df5050;
+    font-family: Bebas Neue Regular;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: white;
+}
+.clgsdy{
+    color: #D1B2A6;
+}
+.instractions{
+    background-color: #161718;
+}
+.readItCon{
+    font-size: 12.5px;
+}
+.cardcol{
+    background-color: #e5d6d1;
+}
