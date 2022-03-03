@@ -33,6 +33,51 @@
 .readItCon{
     font-size: 12.5px;
 }
+.image img {
+    display: block;
+
+}
+.image #color1 a{
+    
+    background-color: #3b5998;
+
+}
+
+.image #color1:hover a{
+    
+    background-color: #2c4374;
+
+}
+.image #color2 a{
+    
+    background-color: #55acee;
+
+}
+
+.image #color2:hover a{
+    
+    background-color: #3c79a8;
+
+}
+.image #color3 a{
+    
+    background-color: #f3572f;
+
+}
+
+.image #color3:hover a{
+    
+    background-color: #a83b1f;
+
+}
+
+.image #zoomIn img {
+    transform: scale(1);
+    transition: 0.3s ease-in-out;
+}
+.image #zoomIn:hover img{
+    transform: scale(1.05);
+}
 .cardcol{
     background-color: #e5d6d1;
 }
