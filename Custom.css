@@ -81,3 +81,10 @@
 .cardcol{
     background-color: #e5d6d1;
 }
+.navbar{
+    letter-spacing: .1rem;
+    font-size: .9rem;
+}
+.navbar-nav li {
+    padding-right: .7rem;
+}
